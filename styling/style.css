@@ -1,0 +1,13 @@
+
+#body{
+    background-color: rgb(243, 250, 215);
+}
+.movies{
+    border-width: 2.5px;
+    border-color: aliceblue;
+    border-radius: 20px;
+    border-style: solid;
+    text-align: center;
+    margin-bottom: 5px;
+    color: black;
+    background-color: aqua;
